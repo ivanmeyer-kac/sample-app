@@ -1,0 +1,2 @@
+﻿
+SetInventoryTutorial.PerformSetInventoryOperation();
